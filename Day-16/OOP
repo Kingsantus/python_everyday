@@ -1,0 +1,13 @@
+Object Oriented Programming
+Class
+Attribute (has, variable assocciated with a Class)
+Method (does, function assocciated with a Class)
+what it has and does
+object is ability of combining variables with functions.
+it a way to create multiple function from a Class
+Class is a blueprint
+Class Car
+Attribute of car, is speed, fuel
+to access speed will be car.speed
+function which is a method can be def move(): speed = 40
+to access the function is car.move()
